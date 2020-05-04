@@ -55,7 +55,7 @@ Laden Sie Ihre Antworten bis spätestens 18.5.2020 (23:59 Uhr) als zip-komprimie
 - Aufgabe 1: Ein PDF-Dokument mit Ihrer Lösung
 - Aufgabe 2: Das gesamte HTML-Projekt
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_HCI_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
