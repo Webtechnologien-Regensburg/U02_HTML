@@ -38,7 +38,7 @@ In dieser Aufgabe sollen Sie eine einfache Webseite erstellen, die aus vier HTML
 | :-------------------------: | :-------------------------: |
 | ![](home.png){ height=8cm } | ![](blog.png){ height=8cm } |
 
-Falls Sie Bilder aus dem Internet nutzen, stellen Sie sich, dass diese unter die Creative-Commons-Lizenz fallen und Sie die Erlaubnis zur Nutzung der Bilder haben. Fügen Sie Referenzen hinzu. Sie können beispielsweise folgende Plattformen verwenden, um nach Bildern für Ihre HTML-Seite zu suchen:
+Falls Sie Bilder aus dem Internet nutzen, stellen Sie sicher, dass diese unter die Creative-Commons-Lizenz fallen und Sie die Erlaubnis zur Nutzung der Bilder haben. Fügen Sie Referenzen hinzu. Sie können beispielsweise folgende Plattformen verwenden, um nach Bildern für Ihre HTML-Seite zu suchen:
 
 [www.pexels.com/](http://www.pexels.com/)  https://pixabay.com/ https://unsplash.com/
 
@@ -55,4 +55,4 @@ Der Name der Datei ergibt sich aus dem Präfix „Übung_HCI_SS20“, der Nr. de
 
  
 
-Beispiel: **Übung_HCI_SS20_2_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS20_2_Max_Mustermann.zip**
