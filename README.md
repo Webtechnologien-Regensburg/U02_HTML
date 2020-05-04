@@ -32,13 +32,13 @@ b) Beschreiben und skizzieren Sie die grundlegende Funktionsweise des Datenausta
 
 ## Aufgabe 2: Erstellen einer HTML-Datei
 
-In dieser Aufgabe sollen Sie eine einfach Webseite erstellen, die aus vier HTML-Dokumenten besteht. Jedes Dokument soll aus einem Bild, Überschriften und einem kurzen Fließtext bestehen. Zusätzlich dazu, sollen Sie über Links zu Ihren anderen HTML-Seiten navigieren können und von jeder HTML-Datei zu Ihrem Home-Screen gelangen. Sie können sich an den nachstehenden Screenshots orientieren.   
+In dieser Aufgabe sollen Sie eine einfache Webseite erstellen, die aus vier HTML-Dokumenten besteht. Jedes Dokument soll aus einem Bild, Überschriften und einem kurzen Fließtext bestehen. Zusätzlich dazu, sollen Sie über Links zu Ihren anderen HTML-Seiten navigieren können und von jeder HTML-Seite zu Ihrer "Home" Seite gelangen. Sie können sich an den nachstehenden Screenshots orientieren.   
 
-|         Home Screen         |         Blog Screen         |
+|        "Home" Seite         |        "Blog" Seite         |
 | :-------------------------: | :-------------------------: |
-| ![](home.png){ height=6cm } | ![](blog.png){ height=6cm } |
+| ![](home.png){ height=8cm } | ![](blog.png){ height=8cm } |
 
-Falls Sie Bilder aus dem Internet nutzen, stellen Sie sich, dass diese unter die Creative-Commons-Lizenz fallen und Sie die Erlaubnis zur Nutzung der Bilder haben. Fügen Sie Referenzen hinzu. Sie können beispielsweise folgende Plattformen verwenden, um nach Bildern für Ihre HTML-Seite zu suchen.
+Falls Sie Bilder aus dem Internet nutzen, stellen Sie sich, dass diese unter die Creative-Commons-Lizenz fallen und Sie die Erlaubnis zur Nutzung der Bilder haben. Fügen Sie Referenzen hinzu. Sie können beispielsweise folgende Plattformen verwenden, um nach Bildern für Ihre HTML-Seite zu suchen:
 
 [www.pexels.com/](http://www.pexels.com/)  https://pixabay.com/ https://unsplash.com/
 
