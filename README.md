@@ -28,7 +28,7 @@ Sie haben in der Vorlesung die Auszeichnungssprache HTML kennengelernt. In diese
 
 a) Stellen Sie sich vor Sie müssten jemandem das "Internet" erklären. Wie würden Sie es beschreiben? (100 bis 200 Wörter)
 
-b) Beschreiben und skizzieren Sie die grundlegende Funktionsweise des Datenaustausches zwischen einzelnen Punkten im Netzwerk (50 bis 150 Wörter). 
+b) Beschreiben und skizzieren Sie die grundlegende Funktionsweise des Datenaustausches über TCP zwischen einzelnen Punkten in einem Netzwerk (50 bis 150 Wörter). 
 
 ## Aufgabe 2: Erstellen einer einfachen HTML-Seite
 
