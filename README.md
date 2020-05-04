@@ -30,9 +30,9 @@ a) Stellen Sie sich vor Sie müssten jemandem das "Internet" erklären. Wie wür
 
 b) Beschreiben und skizzieren Sie die grundlegende Funktionsweise des Datenaustausches zwischen einzelnen Punkten im Netzwerk (50 bis 150 Wörter). 
 
-## Aufgabe 2: Erstellen einer HTML-Datei
+## Aufgabe 2: Erstellen einer einfachen HTML-Seite
 
-In dieser Aufgabe sollen Sie eine einfache Webseite erstellen, die aus vier HTML-Dokumenten besteht. Jedes Dokument soll aus einem Bild, Überschriften und einem kurzen Fließtext bestehen. Zusätzlich dazu, sollen Sie über Links zu Ihren anderen HTML-Seiten navigieren können und von jeder HTML-Seite zu Ihrer "Home" Seite gelangen. Sie können sich an den nachstehenden Screenshots orientieren.   
+In dieser Aufgabe sollen Sie eine einfache HTML-Seite erstellen, die aus vier HTML-Dokumenten besteht. Jedes Dokument soll aus einem Bild, Überschriften und einem kurzen Fließtext bestehen. Zusätzlich dazu, sollen Sie über Links zu Ihren anderen HTML-Seiten navigieren können und von jeder HTML-Seite zu Ihrer "Home" Seite gelangen. Sie können sich an den nachstehenden Screenshots orientieren.   
 
 |        "Home" Seite         |        "Blog" Seite         |
 | :-------------------------: | :-------------------------: |
@@ -40,7 +40,11 @@ In dieser Aufgabe sollen Sie eine einfache Webseite erstellen, die aus vier HTML
 
 Falls Sie Bilder aus dem Internet nutzen, stellen Sie sicher, dass diese unter die Creative-Commons-Lizenz fallen und Sie die Erlaubnis zur Nutzung der Bilder haben. Fügen Sie Referenzen hinzu. Sie können beispielsweise folgende Plattformen verwenden, um nach Bildern für Ihre HTML-Seite zu suchen:
 
-[www.pexels.com/](http://www.pexels.com/)  https://pixabay.com/ https://unsplash.com/
+[www.pexels.com/](www.pexels.com/ ) 
+
+ https://pixabay.com/
+
+ https://unsplash.com/
 
 ------
 
