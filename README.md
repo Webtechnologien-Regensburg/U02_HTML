@@ -40,11 +40,11 @@ In dieser Aufgabe sollen Sie eine einfache HTML-Seite erstellen, die aus vier HT
 
 Falls Sie Bilder aus dem Internet nutzen, stellen Sie sicher, dass diese unter die Creative-Commons-Lizenz fallen und Sie die Erlaubnis zur Nutzung der Bilder haben. Fügen Sie Referenzen hinzu. Sie können beispielsweise folgende Plattformen verwenden, um nach Bildern für Ihre HTML-Seite zu suchen:
 
-[www.pexels.com/](www.pexels.com/ ) 
+[https://www.pexels.com/](www.pexels.com/ ) 
 
- https://pixabay.com/
+https://pixabay.com/
 
- https://unsplash.com/
+https://unsplash.com/
 
 ------
 
