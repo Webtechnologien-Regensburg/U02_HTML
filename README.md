@@ -1,6 +1,6 @@
 ---
 title: HyperText Markup Language (HTML)
-author: Martin Kocur
+author: Jakob Fehle
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -48,13 +48,13 @@ https://unsplash.com/
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 18.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 29.04.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 1: Ein PDF-Dokument mit Ihrer Lösung
 - Aufgabe 2: Das gesamte HTML-Projekt
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS20_2_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS21_2_Max_Mustermann.zip**
