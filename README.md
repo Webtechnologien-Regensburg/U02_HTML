@@ -32,7 +32,7 @@ In dieser Aufgabe sollen Sie eine einfache HTML-Seite erstellen, die aus vier HT
 
 |        "Home" Seite         |        "Blog" Seite         |
 | :-------------------------: | :-------------------------: |
-| ![](home.png){ height=8cm } | ![](blog.png){ height=8cm } |
+| ![](ÜB-01.png){ height=8cm } | ![](ÜB-02.png){ height=8cm } |
 
 
 
