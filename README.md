@@ -1,6 +1,6 @@
 ---
 title: HyperText Markup Language (HTML)
-author: Jakob Fehle
+author: Martin Kocur
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -32,7 +32,7 @@ In dieser Aufgabe sollen Sie eine einfache HTML-Seite erstellen, die aus vier HT
 
 |        "Home" Seite         |        "Blog" Seite         |
 | :-------------------------: | :-------------------------: |
-| ![](ÜB-01.png){ height=8cm } | ![](ÜB-02.png){ height=8cm } |
+| ![](home.png){ height=8cm } | ![](blog.png){ height=8cm } |
 
 
 
@@ -48,13 +48,13 @@ https://unsplash.com/
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 29.04.2021 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 18.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 1: Ein PDF-Dokument mit Ihrer Lösung
 - Aufgabe 2: Das gesamte HTML-Projekt
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS21_2_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS22_2_Max_Mustermann.zip**
