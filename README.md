@@ -48,7 +48,7 @@ https://unsplash.com/
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 18.5.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 09.05.2022 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 1: Ein PDF-Dokument mit Ihrer Lösung
 - Aufgabe 2: Das gesamte HTML-Projekt
